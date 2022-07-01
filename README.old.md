@@ -16,6 +16,13 @@
 14. Run it using npm start
 import index.cc to index.js
 import app.css to app.js
+-----
+1. create components folder inside src folder.
+2. credate contexts folder to have React context API
+3. create data folder to contains images and other data in react app and copy the content from https://github.com/adrianhajdin/project_syncfusion_dashboard/tree/main/src/data
+-----
+1. Add useEffect Hook and BrowserRouter, Routes and Route to App.js
+
 
 
 
